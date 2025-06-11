@@ -1,0 +1,7 @@
+azure-ai-inference==1.0.0b4
+azure-identity==1.15.0
+atlassian-python-api==3.41.0
+python-dotenv==1.0.0
+pydantic==2.5.0
+requests==2.31.0
+asyncio==3.4.3
